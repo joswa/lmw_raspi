@@ -352,9 +352,7 @@ background.setOpaque(true);
             }
         });
     }
-
-    
-    
+  
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton cmdLogin;
     private javax.swing.JLabel jLabel1;
